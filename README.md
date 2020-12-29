@@ -6,7 +6,7 @@ Web application to test sql connection using password stored in key vault
 
 ## Setup
 
-- [Setup](https://github.com/Azure-Samples/KeyVault-Rotation-SQLPassword-Csharp-WebApp/tree/master/ARM-Templates)- Creates Test Web App with access to Key Vault
+- [Setup](https://github.com/Azure-Samples/KeyVault-Rotation-SQLPassword-Csharp-WebApp/tree/master/ARM-Templates)- Creates test web app with access to the key vault
 
 ## Demo
 
